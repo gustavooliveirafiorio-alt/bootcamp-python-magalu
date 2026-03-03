@@ -1,0 +1,40 @@
+🏦 API Bancária Assíncrona com FastAPI
+
+API RESTful assíncrona para gerenciamento de contas correntes, depósitos e saques, com autenticação JWT.
+
+Projeto desenvolvido utilizando FastAPI, SQLAlchemy Async e JWT, seguindo boas práticas modernas de desenvolvimento backend.
+
+🚀 Tecnologias Utilizadas
+
+⚡ FastAPI – Framework web moderno e performático
+
+🗄️ SQLAlchemy Async – ORM assíncrono
+
+🔐 JWT (JSON Web Token) – Autenticação segura
+
+🔒 Passlib (bcrypt) – Hash de senha
+
+🐍 Python 3.10+
+
+📌 Funcionalidades
+👤 Autenticação
+
+Login com geração de token JWT
+
+Proteção de endpoints privados
+
+💰 Transações
+
+Depósito
+
+Saque
+
+Validação de valor negativo
+
+Validação de saldo insuficiente
+
+📄 Extrato
+
+Listagem completa de transações
+
+Exibição do saldo atualizado
